@@ -1,0 +1,326 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "blog": "Blog",
+    "contact": "Contact Us"
+  },
+  "home": {
+    "hero": {
+      "title": "Creating Solutions for Your Business Growth",
+      "description": "At Marketing in Arabic, we provide you with the tools and expertise to market your project professionally, and support you in achieving real and tangible success."
+    },
+    "services": {
+      "title": "Our Services",
+      "service1": {
+        "title": "Digital Marketing",
+        "description": "Ad campaign management, social media marketing, email marketing, content writing."
+      },
+      "service2": {
+        "title": "Design & Visual Identity",
+        "description": "Logo design, visual identity, and design of marketing materials."
+      },
+      "service3": {
+        "title": "Website & App Development",
+        "description": "Website development, mobile applications."
+      },
+      "service4": {
+        "title": "Marketing Consultations & Studies",
+        "description": "Preparing marketing studies and strategic planning."
+      },
+      "service5": {
+        "title": "Sales Management",
+        "description": "Improving sales processes and distribution points, sales planning, sales team training."
+      },
+      "service6": {
+        "title": "Visual Production",
+        "description": "Photography, video production and editing."
+      },
+      "service7": {
+        "title": "Content Creation",
+        "description": "Engaging and valuable content that connects with your audience and builds your brand authority."
+      },
+      "service8": {
+        "title": "Social Media Management",
+        "description": "Strategic planning and management of your social media presence to build community and increase engagement."
+      },
+      "learnMore": "Learn More"
+    },
+    "clients": {
+      "title": "Our Clients",
+      "companyA": "Company A",
+      "companyB": "Company B",
+      "companyC": "Company C",
+      "companyD": "Company D"
+    },
+    "testimonials": {
+      "title": "Client Testimonials",
+      "testimonial1": {
+        "text": "Marketing in Arabic helped us significantly improve our digital presence, leading to a noticeable increase in sales.",
+        "author": "Ahmed Mahmoud",
+        "position": "CEO, Advanced Technology Company"
+      },
+      "testimonial2": {
+        "text": "Professional and committed team, providing innovative solutions and following up the work until achieving results.",
+        "author": "Sarah Khaled",
+        "position": "Marketing Director, Creativity Company"
+      },
+      "testimonial3": {
+        "text": "Great experience with the Marketing in Arabic team, they were able to understand our needs and translate them into a successful marketing strategy.",
+        "author": "Mohammed Ali",
+        "position": "Owner, Elegance Store"
+      }
+    },
+    "cta": {
+      "title": "Are You Ready to Grow?",
+      "description": "Contact us today for a free consultation and let us help you develop your project.",
+      "button": "Contact Us"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Marketing in Arabic",
+      "description": "We are a comprehensive marketing agency that helps companies grow and achieve their goals."
+    },
+    "story": {
+      "title": "Our Story",
+      "intro": "Our journey from a volunteer team to a comprehensive marketing agency",
+      "content": "\"Marketing in Arabic\" started as a passionate volunteer team, driven by a genuine desire to change the concept of marketing in the Syrian market, and present it in an understandable Arabic language close to people. The team included a group of specialized trainers in various fields of marketing, and we were joined by many young volunteers who found in \"Marketing in Arabic\" a place to learn, apply, and move towards real career opportunities. We believed that knowledge should be shared, and opportunities should be given. Therefore, we did not only focus on training, but also worked hard to empower trainees and help them enter the job market. Over time, and after a short pause, we returned with greater motivation and stronger belief in our mission. Today, \"Marketing in Arabic\" has evolved into a professional marketing agency, including graduates of this journey, who have become professionals providing high-quality services with the same team spirit and the same initial passion. We still carry our slogan: \"We inspire, teach, and empower\" but now we add a new promise to it that we provide real results, not just beautiful ideas."
+    },
+    "values": {
+      "title": "Our Values",
+      "intro": "Principles we work by",
+      "value1": {
+        "title": "Youth Support & Empowerment",
+        "description": "We believe that investing in youth is investing in the future."
+      },
+      "value2": {
+        "title": "Free Knowledge",
+        "description": "We share knowledge without conditions."
+      },
+      "value3": {
+        "title": "Productivity Before Fascination",
+        "description": "We focus on delivering actual and achievable results."
+      },
+      "value4": {
+        "title": "Quality and Professionalism",
+        "description": "We provide services with high standards."
+      },
+      "value5": {
+        "title": "Teamwork",
+        "description": "We work as one team to achieve success."
+      },
+      "value6": {
+        "title": "Social Responsibility",
+        "description": "We use marketing tools to support and develop Syrian projects by providing innovative marketing solutions."
+      }
+    },
+    "statistics": {
+      "title": "Our Achievements",
+      "intro": "We have been able to deliver tangible results for our clients, and their projects have achieved a significant increase in performance and growth. We are here to turn every idea into reality.",
+      "stat1": {
+        "number": "500+",
+        "title": "Clients",
+        "description": "Companies that achieved their marketing goals with our help"
+      },
+      "stat2": {
+        "number": "1200+",
+        "title": "Completed Projects",
+        "description": "Successful marketing campaigns and websites created"
+      },
+      "stat3": {
+        "number": "10+",
+        "title": "Years of Experience",
+        "description": "Over a decade of experience in digital marketing and web development"
+      },
+      "stat4": {
+        "number": "25+",
+        "title": "Team Members",
+        "description": "Professional specialists dedicated to your success"
+      }
+    },
+    "team": {
+      "title": "Our Team",
+      "description": "Our team includes more than 10 specialists in all fields related to marketing and development. We believe that teamwork is the secret to success."
+    },
+    "clients": {
+      "title": "Our Clients",
+      "description": "We work with a diverse group of local and international companies, and we work to achieve the best results."
+    },
+    "cta": {
+      "title": "Contact Us Today",
+      "description": "To be partners in your success.",
+      "button": "Contact Us"
+    }
+  },
+  "portfolio": {
+    "hero": {
+      "title": "Our Projects",
+      "description": "We showcase here some of our most prominent projects in which we have achieved actual results."
+    },
+    "filter": {
+      "all": "All",
+      "web": "Web Development",
+      "mobile": "Mobile Apps",
+      "design": "UI/UX Design",
+      "marketing": "Digital Marketing"
+    },
+    "projects": {
+      "title": "Completed Projects",
+      "description": "Browse our successfully implemented projects"
+    },
+    "cta": {
+      "title": "Want to develop your project?",
+      "description": "Contact us today to start developing your project.",
+      "button": "Contact Us"
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Our Services",
+      "description": "We provide all the services that contribute to the success of your business and help boost your growth."
+    },
+    "title": "Our Services",
+    "intro": "A comprehensive range of marketing services to meet the needs of your project",
+    "service1": {
+      "title": "Digital Marketing",
+      "description": "Ad campaign management, social media marketing, email marketing, content writing."
+    },
+    "service2": {
+      "title": "Design & Visual Identity",
+      "description": "Logo design, visual identity, and design of marketing materials."
+    },
+    "service3": {
+      "title": "Website & App Development",
+      "description": "Website development, mobile applications."
+    },
+    "service4": {
+      "title": "Marketing Consultations & Studies",
+      "description": "Preparing marketing studies and strategic planning."
+    },
+    "service5": {
+      "title": "Sales Management",
+      "description": "Improving sales processes, sales team training."
+    },
+    "service6": {
+      "title": "Visual Production",
+      "description": "Photography, video production and editing."
+    },
+    "service7": {
+      "title": "Content Creation",
+      "description": "Engaging and valuable content that connects with your audience and builds your brand authority."
+    },
+    "service8": {
+      "title": "Social Media Management",
+      "description": "Strategic planning and management of your social media presence to build community and increase engagement."
+    },
+    "learnMore": "Learn More",
+    "features": {
+      "title": "What Distinguishes Our Services",
+      "description": "Actual and achievable results, innovative marketing solutions, specialized team with high expertise, continuous communication with clients to achieve ongoing progress"
+    },
+    "process": {
+      "title": "Work Process",
+      "description": "We follow a clear and organized work methodology to ensure the best results",
+      "step1": {
+        "title": "Analysis",
+        "description": "We start by understanding your project's needs."
+      },
+      "step2": {
+        "title": "Planning",
+        "description": "Setting work strategies in an integrated way with your goals."
+      },
+      "step3": {
+        "title": "Implementation",
+        "description": "Executing activities with your follow-up."
+      },
+      "step4": {
+        "title": "Improvement",
+        "description": "Following up on results and improving performance."
+      }
+    },
+    "faq": {
+      "title": "Your Questions",
+      "description": "Answers to your most common questions about our services"
+    },
+    "pricing": {
+      "title": "Our Packages",
+      "description": "Plans suitable for all your business needs",
+      "month": "month",
+      "getStarted": "Get Started",
+      "basic": {
+        "title": "Basic",
+        "price": "99",
+        "feature1": "Project needs analysis",
+        "feature2": "Basic marketing strategy",
+        "feature3": "Monthly reports"
+      },
+      "standard": {
+        "title": "Standard",
+        "price": "199",
+        "feature1": "Social media campaign management",
+        "feature2": "Basic search engine optimization"
+      },
+      "premium": {
+        "title": "Premium",
+        "price": "299",
+        "feature1": "Comprehensive marketing strategy",
+        "feature2": "24/7 dedicated support"
+      }
+    },
+    "cta": {
+      "title": "Are You Ready to Start?",
+      "description": "Contact us and get your free consultation",
+      "button": "Contact Us"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contact Us",
+      "description": "We are here to help you. Contact us today for a free consultation."
+    },
+    "info": {
+      "title": "Contact Information",
+      "phone": "+963984638628",
+      "email": "Mb3arabi@gmail.com",
+      "social": "mb3arabi",
+      "address": "Damascus"
+    },
+    "form": {
+      "title": "Send Us a Message",
+      "description": "Fill out the form below and we will contact you soon",
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Answers to your most common inquiries about our services."
+    }
+  },
+  "footer": {
+    "about": "About Marketing in Arabic",
+    "aboutText": "Marketing in Arabic is a comprehensive marketing agency that helps companies grow and achieve their goals by providing professional marketing services.",
+    "links": "Important Links",
+    "services": "Our Services",
+    "contact": "Contact Us",
+    "contactInfo": "Contact Information",
+    "address": "Damascus",
+    "phone": "+963984638628",
+    "email": "Mb3arabi@gmail.com",
+    "followUs": "Follow Us",
+    "copyright": "© 2025 Marketing in Arabic. All Rights Reserved."
+  },
+  "language": {
+    "ar": "العربية",
+    "en": "English"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark"
+  }
+}
