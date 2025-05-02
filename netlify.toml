@@ -1,5 +1,5 @@
 [build]
-  command = "npm install --legacy-peer-deps && REACT_APP_DISABLE_ESLINT_PLUGIN=true npm run build"
+
   publish = "build"
 
 [build.environment]
